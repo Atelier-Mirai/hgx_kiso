@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"bank"},{"l":"bank.account"},{"l":"bank.holder"},{"l":"すべてのパッケージ","u":"allpackages-index.html"}];updateSearchResults();
